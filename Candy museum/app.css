@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+hr{
+    border-top: 1px solid rgba(223, 194, 194, 0.822);
+    width: 15%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+body{
+    background-color: rgba(190, 149, 156, 0.377);
+}
+#headings-new span{
+    color: red;
+}
+#headings-new h2{
+    font-weight: 100;
+    font-size: 3rem;
+}
+.box{
+    color: rgba(255, 0, 0, 0.671);
+    font-weight: 100;
+}
+.box p{
+    font-size: 1.2rem;
+    padding: 5%;
+    line-height: 2;
+}
+.middle-box h2{
+    font-weight: 100;
+    font-size: 2.8rem;
+}
+.footer-end{
+    height: 2.8rem;
+    font-size: 0.7rem;
+    padding: 10px;
+}
